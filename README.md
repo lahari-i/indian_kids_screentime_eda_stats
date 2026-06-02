@@ -42,9 +42,6 @@ The project includes data cleaning, exploratory data analysis (EDA), visualizati
   - Urban/Rural Location
   - Exceeding Recommended Limits
 
-  📊 **Age Distribution**
-  ![Age Distribution](images/age_dist.png)
-
 ---
 
 ## 🛠 Tools and Technologies
@@ -67,15 +64,6 @@ The project includes data cleaning, exploratory data analysis (EDA), visualizati
 - Hypothesis testing (t-test, chi-square test)
 - Effect size calculation (Cohen’s d, Cramér’s V)
 - Correlation analysis
-
-📦 **Health Impacts Overview**
-![Health Impacts](images/health_impacts.png)
-
-📊 **Health Impacts Across Age**
-![Health Across Age](images/health_impacts_across_age.png)
-
-📈 **Screen Time vs Age**
-![Screen Time vs Age](images/scr_time_vs_age.png)
 
 ---
 
