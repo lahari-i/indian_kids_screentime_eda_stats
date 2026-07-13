@@ -79,7 +79,7 @@ The project includes data cleaning, exploratory data analysis (EDA), visualizati
 
 ---
 
-## 📈 Dashboard / Model / Output
+## 📈 Output
 
 - Distribution plots of screen time
 - Device usage analysis
